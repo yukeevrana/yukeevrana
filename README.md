@@ -20,7 +20,7 @@
 ### [Circle is not right](https://github.com/yukeevrana/atd)
 > **Incremental Casual Tower Defense** > Developed using **Unity**.
 
-### Chaika-7 (Чайка-7)
+### Tchaika-7 (Чайка-7)
 > **Sci-Fi Story Generator Spaceship Simulator** > Developed using **Unity**.
 
 ---
