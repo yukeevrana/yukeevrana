@@ -5,8 +5,8 @@
 ---
 
 ## 📚 Reading List
-* 📖 **Jason Schreier** — *Blood, Sweat, and Pixels* (Reading)
-* 🎨 **Unity E-Book** — *2D game art, animation, and lighting for artists (Unity 6.3 LTS edition)* (Reading)
+* 📖 **Jason Schreier** — *Blood, Sweat, and Pixels* (Reading 25 of 73)
+* 🎨 **Unity E-Book** — *2D game art, animation, and lighting for artists (Unity 6.3 LTS edition)* (Reading 36 of 174)
 * ⚙️ **Unity Docs** — *Write multithreaded code with the Job System* (Reading)
 * 🛠️ **Unity E-Book** — *Introduction to URP for advanced creators (Unity 6 edition)* (Planned)
 * ✨ **Unity E-Book** — *Create popular shaders and visual effects with the Universal Render Pipeline (Unity 6 edition)* (Planned)
