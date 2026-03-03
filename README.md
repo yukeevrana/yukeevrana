@@ -18,10 +18,10 @@
 ## 🚀 Projects
 
 ### [Circle is not right](https://github.com/yukeevrana/atd)
-> **Incremental Casual Tower Defense** > Developed using **Unity**.
+> **Incremental Casual Tower Defense** > Developed using **Unity**. Current version 0.1.0.
 
 ### Tchaika-7 (Чайка-7)
-> **Sci-Fi Story Generator Spaceship Simulator** > Developed using **Unity**.
+> **Sci-Fi Story Generator Spaceship Simulator** > Developed using **Unity**. Current version 0.0.0.
 
 ---
 
